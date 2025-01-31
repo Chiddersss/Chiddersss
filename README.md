@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-![Alt Text](C:\Users\holli\Desktop\git-repo\Chiddersss\imgs\dancing-dance.gif)
+[Alt Text](https://media1.tenor.com/m/jlCMcSm3ddcAAAAd/dancing-dance.gif))
 -->
