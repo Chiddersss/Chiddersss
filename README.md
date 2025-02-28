@@ -4,7 +4,7 @@
 <div className="gifs" align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
   <img src="https://media1.tenor.com/m/vDjsF6VLt4cAAAAC/meme-skeleton.gif" width="150" height="150">
-  <img src="https://media1.tenor.com/m/gm_mhpzK1wsAAAAC/gato-cat.gif" width="150" height="150">
+  <img src="https://media1.tenor.com/m/JwoXAYUDx14AAAAd/skeleton.gif" width="150" height="150">
   <img src="https://media1.tenor.com/m/kBDMplHmLb8AAAAC/cat-cat-meme.gif" width="150" height="150">
 </div>
 <div className="About_Me">
