@@ -1,10 +1,10 @@
 <div align="center">
-<h2> $${\color{orange}CHIDDERS} </h2>
+$${\color{orange}CHIDDERS}
 </div>
 <div className="gifs" align="center">
   <img src="https://media.tenor.com/G9td0kkOSjsAAAAi/cat-meme-kiss.gif" width="150">
   <img src="https://media1.tenor.com/m/vDjsF6VLt4cAAAAC/meme-skeleton.gif" width="150" height="150">
-  <img src="https://media1.tenor.com/m/JwoXAYUDx14AAAAd/skeleton.gif" width="150" height="150">
+  <img src="https://media1.tenor.com/m/gm_mhpzK1wsAAAAC/gato-cat.gif" width="150" height="150">
   <img src="https://media1.tenor.com/m/kBDMplHmLb8AAAAC/cat-cat-meme.gif" width="150" height="150">
 </div>
 <div className="About_Me">
@@ -15,15 +15,15 @@
 </h2>
 </div>
 <div className="stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chidderss&show_icons=true&theme=cobalt&show_icons=true&locale=en&layout=compact" alt="CHIDDERSS" />
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CHIDDERSS&theme=cobalt" />
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidderss&show_icons=true&theme=cobalt&show_icons=true&locale=en&layout=compact" /> -->
 </div>
 
 <div className="text_box">
-<h4>🔭 scripting and full-stack web dev</h4>
-<h4>🌱 Currently learning: C++, TypeScript, and MongoDB</h4>
-<h4>💡 Fun fact: Wanna see my custom GTA server</h4>
-<h4>🤝 you name it, I'll collab</h4>
+<h4>🔭</h4>
+<h4>🌱 </h4>
+<h4>💡 </h4>
+<h4>🤝 </h4>
 
 <p>The most efficient way to get rid of all the bugs was to get rid of all the software. Which is technically and statistically correct</p>
 </div>
