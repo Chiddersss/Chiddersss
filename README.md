@@ -15,7 +15,7 @@ $${\color{orange}CHIDDERS}
 </h2>
 </div>
 <div className="stats">
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CHIDDERSS&theme=cobalt" />
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CHIDDERSSS&theme=cobalt" />
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidderss&show_icons=true&theme=cobalt&show_icons=true&locale=en&layout=compact" /> -->
 </div>
 
